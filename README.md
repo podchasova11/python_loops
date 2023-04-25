@@ -120,5 +120,5 @@ Sometimes it's useful to have the error so that I can catch bugs in the app. In 
 
 Output:
 
-    ValueError: zip() argument 2 is shorter than argument 1
+
 
